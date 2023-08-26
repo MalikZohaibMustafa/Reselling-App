@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ResellingApp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="category_hint">Select Category</string>
+    <string name="condition_hint">Select Condition</string>
+    <string-array name="category_items">
+        <item>Select Category</item>
+        <item>Luxury</item>
+        <item>Tech</item>
+        <item>Clothes</item>
+        <item>Furniture</item>
+    </string-array>
+
+    <string-array name="condition_items">
+        <item>Select Condition</item>
+        <item>New</item>
+        <item>Used</item>
+        <item>Damaged</item>
+    </string-array>
+
+</resources>

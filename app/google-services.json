@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656105241944",
+    "firebase_url": "https://resellapp-5d311-default-rtdb.firebaseio.com",
+    "project_id": "resellapp-5d311",
+    "storage_bucket": "resellapp-5d311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656105241944:android:ca41ef1c5302527d5df92d",
+        "android_client_info": {
+          "package_name": "com.bscs.resellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656105241944-us4ui90hsnrq840uv0n16fhvh3rl56ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3qU_PWq_5jlaZf4XULnCr6Vl7VKMg9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656105241944-us4ui90hsnrq840uv0n16fhvh3rl56ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
